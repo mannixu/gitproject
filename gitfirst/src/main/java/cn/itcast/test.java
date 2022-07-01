@@ -14,5 +14,6 @@ public class test {
 
     public void test2(){
         System.out.println("234");
+        System.out.println("在真main下修改test");
     }
 }
